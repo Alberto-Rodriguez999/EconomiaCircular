@@ -29,7 +29,7 @@
 
 ### Obsolescencia psicológica: gracias a la publicidad, se crea la falsa necesidad en el consumidor de que necesita un nuevo producto aunque el anterior funcione correctamente.
 
-
+![obsol_def.png](https://github.com/Alberto-Rodriguez999/EconomiaCircular/blob/main/IMAGES/obsol_def.png)
 
 
 
