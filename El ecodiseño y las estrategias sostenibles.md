@@ -15,7 +15,17 @@
 # ¿QUÉ ES LA OBSOLESCENCIA PORGRAMADA?
 
 #### ·Se trata de una estrategia comercial ideada por las empresas con el objetivo de que los consumidores compren mas sus productos.
-#### ·¿Como funciona?: En resumen las compañias "programan" la duración de la vida util de los dipositivos para que dejen de funcionar o de recibir actualizaciones antes de 
+#### ·¿Como funciona?: En resumen las compañias "programan" la duración de la vida util de los dipositivos para que dejen de funcionar o de recibir actualizaciones en un momento determinado, forzando así que el usuario tenga que comprar un nuevo dispositivo.
+
+# ¿CUALES SON LOS TIPOS DE OBSOLESCENCIA MÁS IMPORTANTES?
+
+### ·Obsolescencia directa: la empresa determina un número de usso del dispositivo a partir del cual dejara de funcionar.
+
+### ·Obsolescencia indirecta: la empresa no proporciona piezas de repuesto para su dispositivo, por lo que queda inutilizado.
+
+### ·Obsolescencia por incompatibilidad: las dispositivos dejan de recibir actualizaciones, por lo que quedan obsoletos.
+
+### Obsolescencia psicológica: gracias a la publicidad, se crea la falsa necesidad en el consumidor de que necesita un nuevo producto aunque el anterior funcione correctamente.
 
 
 
