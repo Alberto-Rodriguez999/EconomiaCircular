@@ -19,4 +19,6 @@
 #### Las empresas estan empezando a asumir un compromiso con la sociedad y el medio ambiente, lo que implica la adopción de prácticas comerciales éticas y sostenibles.
 
 ### La economia verde es un camino que siguen las empresas las cuales reflejan el cambio hacia un mundo más sostenible y consciente del medio ambiente.
-### El paso de a la economia verde, tambien es esencial para reducir la huella ecologica, siendo este el medidor del impacto ambiental de las actividades humanas. 
+### El paso de a la economia verde, tambien es esencial para reducir la huella ecologica, siendo este el medidor del impacto ambiental de las actividades humanas.
+
+![economiaverde](https://github.com/anxowo/EconomiaCircular/blob/main/IMAGES/economiaverde.jpg)
