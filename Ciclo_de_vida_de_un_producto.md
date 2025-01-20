@@ -14,3 +14,4 @@
 
 ### Declive:
 #### En esta etapa el producto comienza a perder popularidad debido a la llegada al mercado de diferente productos que cumplen las mismas necesidades de una manera mas efectiva o que ofrecen otras cosas a parte. En esta etapa la empresa se centra en recuperar la popularidad del producto.
+![ciclovidaproducto](https://github.com/anxowo/EconomiaCircular/blob/main/IMAGES/ciclovidaproducto.jpg)
