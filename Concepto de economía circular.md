@@ -4,18 +4,18 @@
 
 ## Tipos de economia circular:
 
-### Economía Circular Basada en el Reciclaje
+### Economía Circular Basada en el Reciclaje: Consta en la economía circular aprovechando el reciclaje lo máximo posible.
 
-### Economía Circular de Reutilización
+### Economía Circular de Reutilización: Consta en la economía circular aprovechando la reutilización lo máximo posible.
 
-### Economía Circular Basada en la Regeneración
+### Economía Circular Basada en la Regeneración: Consta en la regeneración, (como por ejemplo replantando) de los ecosistemas.
 
-### Economía Circular de Compartición
+### Economía Circular de Compartición: Se basa en el principio de compartir, y alquilar productos, para.
 
-### Economía Circular Basada en el Diseño
+### Economía Circular Basada en el Diseño: Consiste en diseñar productos de la forma mas duradera posible, y que sean lo mas "Eco-Friendly" posible, un ejemplo de esto es que una empresa haga un smartphone fácil de reparar.
 
-### Economía Circular Industrial
+### Economía Circular Industrial: Este tipo de economía hace que las industrias apunten en la mayor medida a la creaciones de productos de formas masivas y teniendo en cuenta y respetando la economía circular.
 
-### Economía Circular Digital
+### Economía Circular Digital: Utiliza los dispositivos informáticos y extiende su vida útil todo lo posible, mediante actualizaciones, optimización, y dejando atrás la obsolescia programada.
 
-#### El objetivo de la economía circular es reducir todo lo posible el desperdicio mediante un método que se basa en un ciclo
+#### El objetivo de la economía circular es reducir todo lo posible el desperdicio mediante un método que se basa en un ciclo de creación de un producto, el uso de este y una vez su vida útil llegue a su fin, este prodcuto se use oara crear productos nuevos totalmente distinto, o el mismo producto pero con una nueva vida 
