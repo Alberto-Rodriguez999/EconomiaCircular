@@ -8,7 +8,7 @@
 ### [Ignacio Hernández Morillo](https://github.com/anxowo)
 
 # GLOSARIO
-CO2, Decrecimiento, Eutrofización, Organización Internacional de Normalización (ISO), Producto Interior Bruto (PIB), Revolución Industrial, Marketing y salud ecológica
+<!--CO2, Decrecimiento, Eutrofización, Organización Internacional de Normalización (ISO), Producto Interior Bruto (PIB), Revolución Industrial, Marketing y salud ecológica-->
 
 ### ·CO2: Dióxido de carbono, es un gas que "ayuda" al efecto invernadero y afecta al cambio climatico.
 ### ·Decrecimiento: Movimiento social y aconomico que trata de mejorar la caliad de vida 
