@@ -12,6 +12,8 @@
 
 ### ·Durabilidad: alargar lo máximo posible la vida de los dispositios para evitar la obsolescencia.
 
+![ciruclar_def.png](https://github.com/Alberto-Rodriguez999/EconomiaCircular/blob/main/IMAGES/ecodise%C3%B1o_def.png)
+
 # ¿QUÉ ES LA OBSOLESCENCIA PORGRAMADA?
 
 #### ·Se trata de una estrategia comercial ideada por las empresas con el objetivo de que los consumidores compren mas sus productos.
