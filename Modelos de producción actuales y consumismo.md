@@ -23,3 +23,6 @@
 #### Consumismo de lujo
 #### Consumismo instantaneo Consumismo colaborativo
 
+![picotierra1.jpg](https://github.com/ivanius05/EconomiaCircular/blob/main/IMAGES/picatierra1.jpg)
+
+

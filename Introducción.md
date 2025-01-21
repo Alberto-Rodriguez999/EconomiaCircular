@@ -7,3 +7,5 @@
 #### Este enfoque se fundamenta en tres principios clave: diseñar para reducir residuos y contaminación, mantener productos y materiales en uso el mayor tiempo posible, y regenerar los sistemas naturales. 
 
 #### En este proyecto, trataremos temas como la obsolescencia programada, el recicliaje y desperdicio innecesario. Todo esto se relaciona con la economía circular ya sea de forma directa, o indirecta.
+
+![ECONOCIRCU](https://github.com/ivanius05/EconomiaCircular/blob/main/IMAGES/ECONOCIRCU.png)

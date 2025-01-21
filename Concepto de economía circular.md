@@ -19,3 +19,5 @@
 ### Economía Circular Digital: Utiliza los dispositivos informáticos y extiende su vida útil todo lo posible, mediante actualizaciones, optimización, y dejando atrás la obsolescia programada.
 
 #### El objetivo de la economía circular es reducir todo lo posible el desperdicio mediante un método que se basa en un ciclo de creación de un producto, el uso de este y una vez su vida útil llegue a su fin, este prodcuto se use oara crear productos nuevos totalmente distinto, o el mismo producto pero con una nueva vida 
+
+![ECON](https://github.com/ivanius05/EconomiaCircular/blob/main/IMAGES/ECON.jpg)
