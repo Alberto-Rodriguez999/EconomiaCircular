@@ -26,7 +26,9 @@
 ## [The Power MBA](https://www.thepowermba.com/es/blog/que-es-la-obsolescencia-programada-ejemplos-y-como-evitarla)
 ## [ECOEMBES](https://www.ecoembes.com/es)
 ## [Fundación Biodiversidad](https://fundacion-biodiversidad.es/)
-## []()
+## [Intuit Mailchip](https://mailchimp.com/es/resources/product-life-cycle/)
+## [Sap Concur](https://www.concur.com.mx/blog/article/grandes-tendencias-de-la-economia-verde-en-empresas?&cookie_preferences=complete)
+
 
 # MAPA CONCEPTUAL:
 ![CIRCULAR.png](https://github.com/Alberto-Rodriguez999/EconomiaCircular/blob/main/IMAGES/CIRCULAR.png)
